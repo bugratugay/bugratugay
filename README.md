@@ -1,4 +1,5 @@
-<h3 align="center"><string>BUĞRA TUGAY</string></h3>
+<h2 align="center"><string>BUĞRA TUGAY</string></h2>
+<hr>
 <h3 align="center">Üniversiteli Geliştirici - Tasarımcı</h3>
 
 <h4 align="left">İletişim:</h4>
